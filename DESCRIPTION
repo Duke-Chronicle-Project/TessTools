@@ -8,7 +8,7 @@ Authors@R:
             email = "olivier.binette@gmail.com"),
       person(given = "Rui",
              family = "Xin",
-             email = "normalizePath",
+             email = "rui.xin926@duke.edu",
              role="ctb"))
 Description: Interface to the Tesseract OCR command line tool and parsing functions.
 Imports: assert, crayon, here, dplyr, purrr, readr, rvest, stringi, stringr, xml2
